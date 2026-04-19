@@ -22,7 +22,7 @@
 ## 📦 Model Download
 
 > The pre-trained model (`kvasir_vgg16_model.h5`, ~136 MB) is **not stored in this repo** due to GitHub's 100 MB file size limit.  
-> ➡️ **Download it here:** *(Upload to Google Drive / Kaggle and update this link)*
+> ➡️ **Download it from Kaggle:** [Kvasir VGG16 Gastrointestinal Disease Model](https://www.kaggle.com/datasets/itsuru/kvasir-vgg16-gastrointestinal-disease-model)
 
 ---
 
