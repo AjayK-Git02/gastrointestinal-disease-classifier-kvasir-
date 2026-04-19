@@ -1,0 +1,45 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+*.spec
+
+# Virtual environments
+venv/
+env/
+.env/
+.conda/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Dataset folders (large image data — NOT pushed to GitHub)
+dyed-lifted-polyps/
+dyed-resection-margins/
+esophagitis/
+normal-cecum/
+normal-pylorus/
+normal-z-line/
+polyps/
+ulcerative-colitis/
+Untitled.ipynb
+
+# Model files (too large for GitHub free LFS — host on Google Drive / Kaggle)
+*.h5
+*.keras
